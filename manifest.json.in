@@ -1,0 +1,17 @@
+{
+    "name": "@APP_ID@",
+    "description": "description of utc-demo",
+    "architecture": "@CLICK_ARCH@",
+    "title": "@APP_NAME@",
+    "hooks": {
+        "utc": {
+            "apparmor": "utc.apparmor",
+            "desktop":  "utc.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Mutse Young <yyhoo2.young@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

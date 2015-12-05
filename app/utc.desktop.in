@@ -1,0 +1,11 @@
+[Desktop Entry]
+_Name=utc-demo
+Comment=Ubuntu Touch Cmake Demo
+Exec=@EXEC@
+Icon=@ICON@
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-StageHint=SideStage
+
+
